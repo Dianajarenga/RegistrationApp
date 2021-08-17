@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AkiraReg</string>
+    <string name="register">REGISTER</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="name">Name</string>
+    <string name="email">email</string>
+    <string name="phone_number">phone number</string>
+    <string name="id_number">ID number</string>
+
+</resources>
